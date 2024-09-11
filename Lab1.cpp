@@ -53,7 +53,7 @@ public:
     }
 
 private:
-    string ISBN; // Formatted ISBN
+    string ISBN; 
 };
 
 // Clasa Biblioteca
